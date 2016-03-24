@@ -9,8 +9,6 @@ $config['menu_choices'] = array(
 		array('name' => "Alpha", 'link' => '/alpha'),
 		array('name' => "Beta", 'link' => '/beta'),
 		array('name' => "Gamma", 'link' => '/gamma'),
-		array('name' => "Login", 'link' => '/auth'),
-		array('name' => "Logout", 'link' => '/logout'),
 	)
 );
 
